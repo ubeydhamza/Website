@@ -99,7 +99,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-indigo"></i><strong>Work Experience</strong></h2>
         <div class="w3-container">
-          <h5 class="w3-opacity w3-red w3-text-lime"><strong><em>PRIVATE SECTOR / MEBA.LTD.ŞTİ</em></strong></h5>
+          <h5 class="w3-opacity w3-blue w3-text-black"><strong><em>PRIVATE SECTOR / MEBA.LTD.ŞTİ</em></strong></h5>
           <h6 class="w3-text-cyan"><em>JUNE 2020- SEPTEMBER 2020</em></h6>
           <p><em>I dealt with mail, e-invoice and computer works in the company. I had an experience of 3 months.Other than that, I did not have any job or internship experience.</em></p>
 <hr>
@@ -116,31 +116,31 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-indigo"></i><strong>Education</strong></h2>
         
         <div class="w3-container">
-		<h5 class="w3-opacity w3-red w3-text-lime"><strong><em>MANISA CELAL BAYAR UNIVERSITY</em></strong></h5>
+		<h5 class="w3-opacity w3-blue w3-text-black"><strong><em>MANISA CELAL BAYAR UNIVERSITY</em></strong></h5>
           <h6 class="w3-text-cyan"><em>JUNE 2020 - <span class="w3-tag w3-indigo w3-text-cyan w3-round">CURRENT</span></em></h6>
           <p><em>SOFTWARE ENGINEERING</em></p>
 <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity w3-red w3-text-lime"><strong><em>BEŞİR BALCIOĞLU ANATOLIAN HIGH SCHOOL</em></strong></h5>
+          <h5 class="w3-opacity w3-blue w3-text-black"><strong><em>BEŞİR BALCIOĞLU ANATOLIAN HIGH SCHOOL</em></strong></h5>
          <h6 class="w3-text-cyan"><i class="fa fa-calendar fa-fw w3-margin-right"></i><em>2015 - 2019</em></h6>
           <p><em>STUDENT</em></p><br>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity w3-red w3-text-lime"><strong><em>DR.AYLA SAVAŞ SECONDARY SCHOOL</em></strong></h5>
+          <h5 class="w3-opacity w3-blue w3-text-black"><strong><em>DR.AYLA SAVAŞ SECONDARY SCHOOL</em></strong></h5>
           <h6 class="w3-text-cyan"><i class="fa fa-calendar fa-fw w3-margin-right"></i><em>2013 - 2015</em></h6>
           <p><em>STUDENT</em></p><br>
            <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity w3-red w3-text-lime"><em><strong>GAZILER SECONDARY SCHOOL</em></strong></h5>
+          <h5 class="w3-opacity w3-blue w3-text-black"><em><strong>GAZILER SECONDARY SCHOOL</em></strong></h5>
 <h6 class="w3-text-cyan"><i class="fa fa-calendar fa-fw w3-margin-right"></i><em>2011 - 2013</em></h6>
           <p><em>STUDENT</em></p><br>
            <hr>
         </div>
          <div class="w3-container">
-          <h5 class="w3-opacity w3-red w3-text-lime"><strong></strong><strong></strong><strong><em>GAZILER PROVINCIAL SCHOOL</em></strong></h5>
+          <h5 class="w3-opacity w3-blue w3-text-black"><strong></strong><strong></strong><strong><em>GAZILER PROVINCIAL SCHOOL</em></strong></h5>
           <h6 class="w3-text-cyan"><i class="fa fa-calendar fa-fw w3-margin-right"></i><em>2007 - 2011</em></h6>
           <p><em>STUDENT</em></p><br>
            <hr>
