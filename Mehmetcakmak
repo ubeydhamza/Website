@@ -108,7 +108,7 @@ body{
       
     </div>
     <div class="w3-col m6 w3-hide-small w3-padding-large">
-      <p>kalmal</p>
+      <p></p> <div>
     </div>
 
     <!-- Hide this text on small devices -->
