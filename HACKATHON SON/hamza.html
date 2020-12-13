@@ -58,34 +58,43 @@
   <!-- Portfolio Section -->
   <div class="w3-padding-32 w3-content" id="cv">
   <div class="alert alert-secondary" role="alert"><h2 class="w3-text-grey">CV</h2></div>
-    <hr class="w3-opacity">
+  <div class="container"></div> 
+  <hr class="w3-opacity">
    <div class="row">
-       <div class="col-12">
+       <div class="col">
         <table class="">
-            <div class="card" style="width: 18rem;">
-                <div class="card-header">
-                  Education   -   Date
-                </div>
-               
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item"> Erzurum Anadolu High   -   2014/2019</li>
-                  <li class="list-group-item">Celal Bayar Universty   -   2020/curently</li>
-                  
-                </ul>
-              </div><br>
-              <div class="card" style="width: 18rem;">
-              <div class="card-header">
-                Courses     -    About
-              </div>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Maquaire universty  -   English</li>
-                <li class="list-group-item"> Udemy   -     Unity 2d temel c# </li>
-                <li class="list-group-item"> Udemy   -    Javascript </li>
-              </ul>
-              </div>
-            </div><br>
+
+         <div class="w3-bar w3-black">
+            <button class="w3-bar-item w3-button" onclick="openCity('Education')">Education</button>
+            <button class="w3-bar-item w3-button" onclick="openCity('Courses')">Courses</button>
+            <button class="w3-bar-item w3-button" onclick="openCity('Project')">Project</button>
+          </div>
           
-   </div>
+          <div id="Education" class="w3-container w3-display-container city">
+            <span onclick="this.parentElement.style.display='none'"
+            class="w3-button w3-large w3-display-topright">&times;</span>
+            <h2>Education</h2>
+           <strong> <p>Erzurum Anadolu High   -   2014/2019</p><br></strong>
+           <strong> <p>Celal Bayar Universty   -   2020/curently</p></strong>
+          </div>
+          
+          <div id="Courses" class="w3-container w3-display-container city" style="display:none">
+            <span onclick="this.parentElement.style.display='none'"
+            class="w3-button w3-large w3-display-topright">&times;</span>
+            <h2>Courses     -    About</h2>
+            <strong><p>Maquaire universty  -   English</p></strong>
+            <strong><p>Udemy   -     Unity 2d temel c# </p></strong>
+            <strong><p>Udemy   -    Javascript</p></strong>
+          </div>
+          
+          <div id="Project" class="w3-container w3-display-container city" style="display:none">
+            <span onclick="this.parentElement.style.display='none'"
+            class="w3-button w3-large w3-display-topright">&times;</span>
+            <h2>Project</h2>
+           <strong><p>Hackathon with YTK about:cv, potfolia</p></strong>
+          </div>
+          
+          </div>
             </div>
         </table>
        </div>
@@ -208,6 +217,18 @@
   
 <!-- END PAGE CONTENT -->
 </div>
+
+<!-- open and close cv bar-->
+<script>
+  function openCity(cityName) {
+    var i;
+    var x = document.getElementsByClassName("city");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    document.getElementById(cityName).style.display = "block";  
+  }
+  </script>
 
 <script>
 // Open and close sidebar
