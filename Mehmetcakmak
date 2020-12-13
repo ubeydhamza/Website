@@ -247,7 +247,7 @@ body{
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
-  <a href="file:///C:/Users/user/Desktop/Yeni%20Metin%20Belgesi.html#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-home w3-margin-right"></i>Ana sayfamız</a>
+  <a href="file:///C:/Users/user/Desktop/Yeni%20Metin%20Belgesi.html#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-home w3-margin-right"></i>our homepage</a>
   <div class="w3-xlarge w3-section">
     <a href="https://www.facebook.com/mehemtali.fenerli" target="_blank"><i class="fa fa-facebook-official w3-hover-opacity "></i></a>
     <a href="https://www.instagram.com/mehmetali_cakmak21/?hl=tr" target="_blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
@@ -257,7 +257,7 @@ body{
     <a href="https://www.linkedin.com/in/ko%C3%A7-yaz%C4%B1l%C4%B1mc%C4%B1-82a1211b9/"target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
     <a href="https://www.youtube.com/channel/UCAo3UPkWdCCm6Q0FMSJ2REQ?view_as=subscriber"target="_blank"><i class="fa fa-youtube w3-hover-opacity"></i></a></a>
   </div>
-  <p>github hesabım <a href="https://github.com/ubeydhamza/Website/upload/main" title="github" target="_blank" class="w3-hover-text-green">github</a></p>
+  <p>github <a href="https://github.com/mehmet-eflatun" title="github" target="_blank" class="w3-hover-text-green">github</a></p>
 </footer>
  
 <script>
